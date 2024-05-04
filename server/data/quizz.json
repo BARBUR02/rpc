@@ -1,0 +1,426 @@
+[
+    {
+        "type": "GEOGRAPHY",
+        "label": "Geography Quiz",
+        "questions": [
+            {
+                "text": "What is the capital of France?",
+                "expected": "Paris",
+                "options": [
+                    "Paris",
+                    "London",
+                    "Berlin",
+                    "Rome"
+                ]
+            },
+            {
+                "text": "Which river is the longest in the world?",
+                "expected": "Nile",
+                "options": [
+                    "Nile",
+                    "Amazon",
+                    "Yangtze",
+                    "Mississippi"
+                ]
+            },
+            {
+                "text": "What is the smallest country in the world?",
+                "expected": "Vatican City",
+                "options": [
+                    "Vatican City",
+                    "Monaco",
+                    "Nauru",
+                    "Tuvalu"
+                ]
+            },
+            {
+                "text": "Which continent is the least populated?",
+                "expected": "Antarctica",
+                "options": [
+                    "Antarctica",
+                    "Australia",
+                    "South America",
+                    "Europe"
+                ]
+            },
+            {
+                "text": "In which country is the Great Barrier Reef located?",
+                "expected": "Australia",
+                "options": [
+                    "Australia",
+                    "Brazil",
+                    "India",
+                    "Mexico"
+                ]
+            },
+            {
+                "text": "What is the highest mountain in Africa?",
+                "expected": "Kilimanjaro",
+                "options": [
+                    "Kilimanjaro",
+                    "Everest",
+                    "Denali",
+                    "Aconcagua"
+                ]
+            },
+            {
+                "text": "Which ocean is the largest?",
+                "expected": "Pacific Ocean",
+                "options": [
+                    "Pacific Ocean",
+                    "Atlantic Ocean",
+                    "Indian Ocean",
+                    "Arctic Ocean"
+                ]
+            },
+            {
+                "text": "Which is the driest desert in the world?",
+                "expected": "Atacama Desert",
+                "options": [
+                    "Atacama Desert",
+                    "Sahara Desert",
+                    "Arabian Desert",
+                    "Kalahari Desert"
+                ]
+            },
+            {
+                "text": "What is the longest river in South America?",
+                "expected": "Amazon River",
+                "options": [
+                    "Amazon River",
+                    "Nile River",
+                    "Congo River",
+                    "Yangtze River"
+                ]
+            },
+            {
+                "text": "Which country is the largest by land area?",
+                "expected": "Russia",
+                "options": [
+                    "Russia",
+                    "Canada",
+                    "China",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "ANIMAL",
+        "label": "Animal Quiz",
+        "questions": [
+            {
+                "text": "What is the largest land animal?",
+                "expected": "Elephant",
+                "options": [
+                    "Elephant",
+                    "Giraffe",
+                    "Rhino",
+                    "Hippo"
+                ]
+            },
+            {
+                "text": "What is the only mammal capable of sustained flight?",
+                "expected": "Bat",
+                "options": [
+                    "Bat",
+                    "Bird",
+                    "Pterosaur",
+                    "Butterfly"
+                ]
+            },
+            {
+                "text": "What is the fastest land animal?",
+                "expected": "Cheetah",
+                "options": [
+                    "Cheetah",
+                    "Lion",
+                    "Leopard",
+                    "Tiger"
+                ]
+            },
+            {
+                "text": "Which animal has the longest neck?",
+                "expected": "Giraffe",
+                "options": [
+                    "Giraffe",
+                    "Elephant",
+                    "Okapi",
+                    "Sloth"
+                ]
+            },
+            {
+                "text": "What is the largest living bird?",
+                "expected": "Ostrich",
+                "options": [
+                    "Ostrich",
+                    "Emu",
+                    "Cassowary",
+                    "Albatross"
+                ]
+            },
+            {
+                "text": "What is the only venomous snake native to the UK?",
+                "expected": "Adder",
+                "options": [
+                    "Adder",
+                    "Cobra",
+                    "Rattlesnake",
+                    "Taipan"
+                ]
+            },
+            {
+                "text": "What is the collective name for a group of lions?",
+                "expected": "Pride",
+                "options": [
+                    "Pride",
+                    "Herd",
+                    "Flock",
+                    "Pack"
+                ]
+            },
+            {
+                "text": "Which animal can be found in Antarctica and is the only bird that can dive to depths of 300 meters?",
+                "expected": "Emperor Penguin",
+                "options": [
+                    "Emperor Penguin",
+                    "Albatross",
+                    "Arctic Tern",
+                    "Puffin"
+                ]
+            },
+            {
+                "text": "What is the largest species of fish in the world?",
+                "expected": "Whale Shark",
+                "options": [
+                    "Whale Shark",
+                    "Great White Shark",
+                    "Blue Whale",
+                    "Basking Shark"
+                ]
+            },
+            {
+                "text": "Which animal has the longest lifespan?",
+                "expected": "Giant Tortoise",
+                "options": [
+                    "Giant Tortoise",
+                    "Bowhead Whale",
+                    "African Elephant",
+                    "Macaw"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "PHYSICS",
+        "label": "Physics Quiz",
+        "questions": [
+            {
+                "text": "What is the SI unit of force?",
+                "expected": "Newton",
+                "options": [
+                    "Newton",
+                    "Watt",
+                    "Joule",
+                    "Volt"
+                ]
+            },
+            {
+                "text": "Which scientist formulated the theory of relativity?",
+                "expected": "Einstein",
+                "options": [
+                    "Einstein",
+                    "Newton",
+                    "Galileo",
+                    "Tesla"
+                ]
+            },
+            {
+                "text": "What is the formula for calculating speed?",
+                "expected": "Speed = Distance / Time",
+                "options": [
+                    "Speed = Distance / Time",
+                    "Speed = Time * Distance",
+                    "Speed = Distance + Time",
+                    "Speed = Distance - Time"
+                ]
+            },
+            {
+                "text": "What is the law of universal gravitation?",
+                "expected": "Every particle attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+                "options": [
+                    "Every particle attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+                    "Gravity decreases with altitude.",
+                    "Objects fall at the same rate regardless of mass.",
+                    "Gravity is stronger on larger planets."
+                ]
+            },
+            {
+                "text": "What is the speed of light in a vacuum?",
+                "expected": "299,792 kilometers per second",
+                "options": [
+                    "299,792 kilometers per second",
+                    "300,000 kilometers per second",
+                    "200,000 kilometers per second",
+                    "400,000 kilometers per second"
+                ]
+            },
+            {
+                "text": "What is the first law of thermodynamics?",
+                "expected": "Energy cannot be created or destroyed, only transformed from one form to another.",
+                "options": [
+                    "Energy cannot be created or destroyed, only transformed from one form to another.",
+                    "Heat always flows from hot to cold.",
+                    "Work is force times distance.",
+                    "Entropy always increases in a closed system."
+                ]
+            },
+            {
+                "text": "What is the unit of electrical resistance?",
+                "expected": "Ohm",
+                "options": [
+                    "Ohm",
+                    "Volt",
+                    "Ampere",
+                    "Watt"
+                ]
+            },
+            {
+                "text": "What is the study of motion called?",
+                "expected": "Kinematics",
+                "options": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Statics",
+                    "Thermodynamics"
+                ]
+            },
+            {
+                "text": "What is the SI unit of energy?",
+                "expected": "Joule",
+                "options": [
+                    "Joule",
+                    "Watt",
+                    "Volt",
+                    "Newton"
+                ]
+            },
+            {
+                "text": "What is the boiling point of water in Celsius?",
+                "expected": "100 degrees",
+                "options": [
+                    "100 degrees",
+                    "0 degrees",
+                    "50 degrees",
+                    "200 degrees"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "SPORT",
+        "label": "Sport Quiz",
+        "questions": [
+            {
+                "text": "Which country hosted the first modern Olympic Games?",
+                "expected": "Greece",
+                "options": [
+                    "Greece",
+                    "USA",
+                    "France",
+                    "UK"
+                ]
+            },
+            {
+                "text": "Which sport is played with the heaviest ball?",
+                "expected": "Shot Put",
+                "options": [
+                    "Shot Put",
+                    "Golf",
+                    "Basketball",
+                    "Soccer"
+                ]
+            },
+            {
+                "text": "Which sport uses the terms 'deuce' and 'love'?",
+                "expected": "Tennis",
+                "options": [
+                    "Tennis",
+                    "Squash",
+                    "Badminton",
+                    "Table Tennis"
+                ]
+            },
+            {
+                "text": "In which year did basketball become an official Olympic sport?",
+                "expected": "1936",
+                "options": [
+                    "1936",
+                    "1900",
+                    "1924",
+                    "1948"
+                ]
+            },
+            {
+                "text": "What is the highest possible score in a single game of ten-pin bowling?",
+                "expected": "300",
+                "options": [
+                    "300",
+                    "200",
+                    "400",
+                    "100"
+                ]
+            },
+            {
+                "text": "Which country has won the most FIFA World Cup titles?",
+                "expected": "Brazil",
+                "options": [
+                    "Brazil",
+                    "Germany",
+                    "Italy",
+                    "Argentina"
+                ]
+            },
+            {
+                "text": "How many players are there in a rugby union team?",
+                "expected": "15",
+                "options": [
+                    "15",
+                    "11",
+                    "13",
+                    "7"
+                ]
+            },
+            {
+                "text": "In which year was the first Wimbledon Championship held?",
+                "expected": "1877",
+                "options": [
+                    "1877",
+                    "1880",
+                    "1869",
+                    "1890"
+                ]
+            },
+            {
+                "text": "What is the name of the horse racing track where the Kentucky Derby is held?",
+                "expected": "Churchill Downs",
+                "options": [
+                    "Churchill Downs",
+                    "Belmont Park",
+                    "Saratoga Race Course",
+                    "Pimlico Race Course"
+                ]
+            },
+            {
+                "text": "Which player has won the most Grand Slam singles titles in tennis?",
+                "expected": "Margaret Court",
+                "options": [
+                    "Margaret Court",
+                    "Serena Williams",
+                    "Steffi Graf",
+                    "Martina Navratilova"
+                ]
+            }
+        ]
+    }
+]

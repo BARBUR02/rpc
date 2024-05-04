@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package quiz;
+
+import "google/protobuf/empty.proto";
+
+message Question {
+  string text = 1;
+  string expected = 2;
+  repeated string options = 3;
+}
+
+enum QuizType {
+  DEFAULT = 0;
+  ANIMAL = 1;
+  GEOGRAPHY = 2;
+  PHYSICS = 3;
+  SPORT = 4;
+}
+
+message Quiz {
+  QuizType type = 1;
+  string label = 2;
+  int32 no_questions = 3;
+}
+
+message QuizListResponse {
+  repeated Quiz quizzes = 1;
+}
+
+message PlayQuizRequest {
+    QuizType quiz_type = 1;
+}
+
+service QuizService {
+  rpc GetAvailableQuizzes (google.protobuf.Empty) returns (QuizListResponse);
+
+  rpc PlayQuiz (PlayQuizRequest) returns (stream Question);
+}
